@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0001 Every Node In Godot Sprite And Animated Sprite", "0001 Every Node In Godot Sprite And Animated Sprite.csproj", "{7E709CBD-8F90-4C32-8036-457E7EA19F64}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7E709CBD-8F90-4C32-8036-457E7EA19F64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E709CBD-8F90-4C32-8036-457E7EA19F64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E709CBD-8F90-4C32-8036-457E7EA19F64}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{7E709CBD-8F90-4C32-8036-457E7EA19F64}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{7E709CBD-8F90-4C32-8036-457E7EA19F64}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{7E709CBD-8F90-4C32-8036-457E7EA19F64}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
